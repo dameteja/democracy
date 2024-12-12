@@ -1,0 +1,132 @@
+2024.12.11 15:09:10 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\damerlashiva.s\Documents\democracy' for client Visual Studio Code 1.95.3.
+2024.12.11 15:09:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.11 15:09:11 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:09:14 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:09:15 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:09:15 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\DAMERL~1.S\AppData\Local\Temp\metals1774917810249962488\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.11 15:09:20 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:09:20 INFO  Shutting down server
+2024.12.11 15:09:20 INFO  shutting down Metals
+2024.12.11 15:09:20 INFO  Exiting server
+2024.12.11 15:11:14 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\damerlashiva.s\Documents\democracy' for client Visual Studio Code 1.95.3.
+2024.12.11 15:11:16 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.11 15:11:16 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:18 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:19 INFO  skipping build import with status 'Started'
+2024.12.11 15:11:19 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:24 INFO  time: code lens generation in 5.58s
+2024.12.11 15:11:35 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:35 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:56 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:56 WARN  no build target for: C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala
+2024.12.11 15:11:56 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:56 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:56 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:58 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:58 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:11:58 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:03 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:04 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:04 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:04 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.11 15:12:08 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:24 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:24 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:24 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:29 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-17-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2024.12.12 11:28:33 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:33 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:33 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:46 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:46 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:46 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:47 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:49 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:50 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:50 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:28:50 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:29:07 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:07 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:07 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:07 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:09 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:10 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:10 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:29:11 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:11 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:11 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:11 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:11 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:29:12 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:12 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:12 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:13 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:29:15 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:15 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:15 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:15 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:16 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:16 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:17 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:23 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:23 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:29:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:29:28 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:34:08 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:34:08 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:34:09 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:00 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:21 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:22 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:24 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:25 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:25 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:26 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:42:27 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:28 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:28 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:29 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:42:30 WARN  no build target for: C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala
+2024.12.12 11:42:30 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:44:59 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:44:59 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:44:59 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:01 WARN  Could not find semantic tokens for: file:///C:/Users/damerlashiva.s/Documents/democracy/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2024.12.12 11:45:03 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:03 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:03 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:05 WARN  no build target for: C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala
+2024.12.12 11:45:05 WARN  no build target for: C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala
+2024.12.12 11:45:05 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:06 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:07 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:21 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\major.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:23 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:25 WARN  no build target for: C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala
+2024.12.12 11:45:26 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:45:27 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:49:02 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:49:04 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 11:52:22 INFO  Shutting down server
+2024.12.12 11:52:22 INFO  shutting down Metals
+2024.12.12 11:52:22 INFO  Exiting server
+2024.12.12 13:47:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\damerlashiva.s\Documents\democracy\.metals\lsp.trace.json or C:\Users\damerlashiva.s\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2024.12.12 13:48:00 INFO  logging to files C:\Users\damerlashiva.s\Documents\democracy\.metals\metals.log
+2024.12.12 13:48:00 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\damerlashiva.s\Documents\democracy' for client Visual Studio Code 1.95.3.
