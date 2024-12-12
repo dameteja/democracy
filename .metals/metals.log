@@ -130,3 +130,9 @@ Exception in thread "pool-17-thread-1" java.lang.InterruptedException
 2024.12.12 13:47:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\damerlashiva.s\Documents\democracy\.metals\lsp.trace.json or C:\Users\damerlashiva.s\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2024.12.12 13:48:00 INFO  logging to files C:\Users\damerlashiva.s\Documents\democracy\.metals\metals.log
 2024.12.12 13:48:00 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\damerlashiva.s\Documents\democracy' for client Visual Studio Code 1.95.3.
+2024.12.12 13:48:01 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 13:48:01 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 13:48:02 INFO  skipping build import with status 'Started'
+2024.12.12 13:48:02 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 12, 2024 1:48:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
