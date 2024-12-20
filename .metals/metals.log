@@ -136,3 +136,4 @@ Exception in thread "pool-17-thread-1" java.lang.InterruptedException
 2024.12.12 13:48:02 INFO  no build target found for C:\Users\damerlashiva.s\Documents\democracy\democracy\src\main\scala\democracy\MajorityJudgement.scala. Using presentation compiler with project's scala-library version: 3.3.4
 Dec 12, 2024 1:48:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.12.12 13:48:13 INFO  time: code lens generation in 11s
